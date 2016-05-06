@@ -39,6 +39,10 @@
 `I can get a static library for multi-platform and without those libraries`
 ####And the new library will be named xxx.a.new
 
+###Function 4
+	python VKRemove.py -i XuanWheelSDK.a -from clear.txt
+`It works like function 3 but the other argvs are writen in a extra file !`
+
 ####Wait A Moment
 ####What is the "-" used for in the function 3?
 
@@ -49,6 +53,6 @@ python VKRemove.py -i XuanWheelSDK.a -rm FCFileManager `HMSegmentedControl-` JFM
 
 ####For example :HMSegmentedControl and VKHMSegmentedControl,perhaps you can use the "-"
 
-##This is used for iOS
-##If you like it please star it
+---
+###This is used for iOS,If you like it please star it,thank you
 [Twitter Me](https://twitter.com/VKWK_Viking)
